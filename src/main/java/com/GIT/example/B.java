@@ -1,8 +1,7 @@
 package com.GIT.example;
 
-public class A {
+public class B {
     public static void main(String[] args) {
-        System.out.println("Hello, Git!");
-
+        System.out.println("This is class B");
     }
 }
